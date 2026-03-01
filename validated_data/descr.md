@@ -1,1 +1,0 @@
-Validated data - временные отсчёты валидированных HFO и сами события, вырезанные из raw_data, preprocessed_data, filtered_data.
