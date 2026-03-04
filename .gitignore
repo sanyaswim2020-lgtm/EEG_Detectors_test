@@ -1,0 +1,8 @@
+detector_venv/
+.DS_Store
+*.fif
+*.edf
+*.set
+*.fdt
+*.csv
+*.tsv
